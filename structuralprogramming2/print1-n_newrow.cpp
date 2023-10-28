@@ -7,14 +7,14 @@ int main()
     cout<<"Enter number: ";
     cin>>n;
 
-    while(counter<=n)
+    while(counter <= n)
     {
-        cout <<" "<<counter;
+        cout << " " << counter;
         counter++;
 
-        if(counter%5==0)
+        if(counter % 5 == 1)
         {
-            cout<<endl;
+            cout << endl;
         }
 
     } 
