@@ -9,7 +9,7 @@ int main()
 
     while(counter <= n)
     {
-        cout <<" "<<counter;
+        cout << " " << counter;
         counter++;
 
     } 
