@@ -13,6 +13,6 @@ int main()
         p=p*n;
         n--;
     }
-    cout<<p;
+    cout << "Faktoriali eshte: " << p << endl;
     return 0;
 }
