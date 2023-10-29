@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     int n, n1=0, n2=1, result=0;
+    cout << "Input number: ";
     cin>>n;
 
     while (n>0)
