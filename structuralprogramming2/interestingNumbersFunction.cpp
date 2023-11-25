@@ -19,7 +19,7 @@ int main ()
     int num;
 
     cout << "Enter a number: ";
-    cin >> n;
+    cin >> num;
     checkInteresting(num);
     
 

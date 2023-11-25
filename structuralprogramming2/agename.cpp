@@ -6,7 +6,7 @@ int main()
 {string name;
     int currentYear, birthYear, age;
 
-    cout << "Enter your name: ";
+    cout << "Enter your first name: ";
     getline(cin, name);
 
     cout << "Enter the current year: ";
