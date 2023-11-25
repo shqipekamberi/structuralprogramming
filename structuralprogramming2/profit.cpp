@@ -16,7 +16,7 @@ int main()
     cin>>price;
     cout<<"The gross profit is:";
     gross = sold+price;
-    cout<<"The net profit:";
+    cout<<"\nThe net profit:";
     net=gross-(employees+salary);
     return 0;
 }
